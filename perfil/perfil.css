@@ -1,0 +1,107 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BODY */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f5f6f8;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* HEADER */
+header {
+    text-align: center;
+    padding: 60px 20px 30px;
+}
+
+header h1 {
+    font-size: 28px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+/* MAIN */
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* CARD */
+.card {
+    background: white;
+    width: 600px;
+    padding: 50px 40px;
+    border-radius: 18px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.05);
+    text-align: center;
+}
+
+/* FOTO */
+.card img {
+    width: 160px;
+    border-radius: 50%;
+    margin-bottom: 25px;
+}
+
+/* NOMBRE */
+.card h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+/* TEXTOS */
+.card p {
+    margin: 6px 0;
+    font-size: 15px;
+    color: #555;
+}
+
+/* HABILIDADES */
+ul {
+    list-style: none;
+    margin-top: 12px;
+}
+
+ul li {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #444;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    padding: 25px;
+}
+
+.logo {
+    width: 90px;
+    opacity: 0.8;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+    .card {
+        width: 90%;
+        padding: 30px 20px;
+    }
+
+    header {
+        padding: 40px 20px 20px;
+    }
+
+    header h1 {
+        font-size: 22px;
+    }
+}

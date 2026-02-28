@@ -1,0 +1,14 @@
+{
+  "nombre": "Emmanuel Ospina Giraldo",
+  "edad": 23,
+  "carrera": "Ingeniería de Sistemas",
+  "universidad": "Universidad Santiago de Cali",
+  "email": "emmanuel.ospina@correo.usc.edu.co",
+  "telefono": "3135914157",
+  "habilidades": ["C++", "JavaScript", "HTML", "CSS"],
+  "experiencia": "Desarrollo de proyectos académicos en frontend",
+  "imagen": "img/emmanuel.jpg",
+  "ciudad" : "Cali - Valle del Cauca, Colombia.",
+  "descripcion" : "Soy un apasionado por la tecnología y el desarrollo de software. Me gusta aprender nuevas tecnologías y en mi tiempo libre disfruto de la música y el tiempo en familia."
+
+}

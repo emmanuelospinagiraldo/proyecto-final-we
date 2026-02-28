@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jon Snow",
+    "casa": "Stark",
+    "rol": "Rey en el Norte",
+    "estado": "Vivo",
+    "temporadas": 8,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/3/30/Jon_Snow_Season_8.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Daenerys Targaryen",
+    "casa": "Targaryen",
+    "rol": "Madre de Dragones",
+    "estado": "Fallecida",
+    "temporadas": 8,
+    "imagen": "img/daenerys.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Tyrion Lannister",
+    "casa": "Lannister",
+    "rol": "Mano del Rey",
+    "estado": "Vivo",
+    "temporadas": 8,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/5/50/Tyrion_Lannister-Peter_Dinklage.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Arya Stark",
+    "casa": "Stark",
+    "rol": "Asesina",
+    "estado": "Viva",
+    "temporadas": 8,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/3/39/Arya_Stark-Maisie_Williams.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Cersei Lannister",
+    "casa": "Lannister",
+    "rol": "Reina",
+    "estado": "Fallecida",
+    "temporadas": 8,
+    "imagen": "img/cersei.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Sansa Stark",
+    "casa": "Stark",
+    "rol": "Reina en el Norte",
+    "estado": "Viva",
+    "temporadas": 8,
+    "imagen": "img/sansa.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Bran Stark",
+    "casa": "Stark",
+    "rol": "Rey de Westeros",
+    "estado": "Vivo",
+    "temporadas": 8,
+    "imagen": "img/bran.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Jaime Lannister",
+    "casa": "Lannister",
+    "rol": "Guerrero",
+    "estado": "Fallecido",
+    "temporadas": 8,
+    "imagen": "img/jaime.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "The Night King",
+    "casa": "Caminantes Blancos",
+    "rol": "Villano",
+    "estado": "Derrotado",
+    "temporadas": 6,
+    "imagen": "img/nightking.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Robb Stark",
+    "casa": "Stark",
+    "rol": "Rey en el Norte",
+    "estado": "Fallecido",
+    "temporadas": 3,
+    "imagen": "img/robb.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Joffrey Baratheon",
+    "casa": "Baratheon",
+    "rol": "Rey",
+    "estado": "Fallecido",
+    "temporadas": 4,
+    "imagen": "img/joffrey.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Samwell Tarly",
+    "casa": "Tarly",
+    "rol": "Maestre",
+    "estado": "Vivo",
+    "temporadas": 8,
+    "imagen": "img/samwell.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Sandor Clegane",
+    "casa": "Clegane",
+    "rol": "Guerrero",
+    "estado": "Fallecido",
+    "temporadas": 8,
+    "imagen": "img/clegane.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Petyr Baelish",
+    "casa": "Baelish",
+    "rol": "Manipulador",
+    "estado": "Fallecido",
+    "temporadas": 7,
+    "imagen": "img/baelish.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Varys",
+    "casa": "Sin casa",
+    "rol": "Consejero",
+    "estado": "Fallecido",
+    "temporadas": 8,
+    "imagen": "img/varys.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Brienne of Tarth",
+    "casa": "Tarth",
+    "rol": "Caballera",
+    "estado": "Viva",
+    "temporadas": 8,
+    "imagen": "img/brienne.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Melisandre",
+    "casa": "Sacerdotisa Roja",
+    "rol": "Hechicera",
+    "estado": "Fallecida",
+    "temporadas": 8,
+    "imagen": "img/melisandre.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Theon Greyjoy",
+    "casa": "Greyjoy",
+    "rol": "Guerrero",
+    "estado": "Fallecido",
+    "temporadas": 8,
+    "imagen": "img/theon.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Margaery Tyrell",
+    "casa": "Tyrell",
+    "rol": "Reina",
+    "estado": "Fallecida",
+    "temporadas": 6,
+    "imagen": "img/margaey.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Davos Seaworth",
+    "casa": "Seaworth",
+    "rol": "Consejero",
+    "estado": "Vivo",
+    "temporadas": 8,
+    "imagen": "img/davos.jpg"
+  }
+]
