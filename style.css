@@ -93,8 +93,9 @@ body {
 /* FOOTER */
 footer {
     text-align: center;
-    padding: 20px;
+    padding: 8px 0;
     background: rgba(0,0,0,0.3);
+    font-size: 14px;
 }
 
 /* RESPONSIVE */
@@ -118,4 +119,9 @@ footer {
         flex-direction: column;
         gap: 15px;
     }
+}
+#visor{
+    width: 100%;
+    flex: 1;
+    border: none;
 }

@@ -1,37 +1,32 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Proyecto Final</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Proyecto Final</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<nav class="navbar">
+  <nav class="navbar">
     <div class="logo">Proyecto Final</div>
+
     <ul class="nav-links">
-        <li><a href="claseweb2026/index.html">Harry</a></li>
-        <li><a href="TL/tl.html">Tema Libre</a></li>
-        <li><a href="perfil/perfil.html">Perfil</a></li>
+      <li><a href="#" onclick="ir('claseweb2026/index.html'); return false;">Harry</a></li>
+      <li><a href="#" onclick="ir('TL/tl.html'); return false;">Tema Libre</a></li>
+      <li><a href="#" onclick="ir('perfil/perfil.html'); return false;">Perfil</a></li>
     </ul>
-</nav>
+  </nav>
 
-<section class="hero">
-    <h1>Bienvenido al Proyecto Final</h1>
-    <p>Desarrollo Web - Ingeniería de Sistemas</p>
+  <!-- CONTENIDO -->
+  <iframe id="visor" src="claseweb2026/index.html"></iframe>
 
-    <div class="buttons">
-        <a href="claseweb2026/index.html" class="btn">Explorar Harry</a>
-        <a href="TL/tl.html" class="btn">Explorar GOT</a>
-        <a href="perfil/perfil.html" class="btn">Ver Perfil</a>
-    </div>
-</section>
-
-<footer>
+  <footer>
     © 2026 - Emmanuel Ospina Giraldo
-</footer>
+  </footer>
+
+  <script src="script.js"></script>
 
 </body>
 </html>

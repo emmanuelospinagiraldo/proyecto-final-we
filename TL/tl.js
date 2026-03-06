@@ -23,7 +23,7 @@ function mostrarPersonajes(lista) {
             <p><strong>Casa:</strong> ${personaje.casa}</p>
         `;
 
-        // 👇 GUARDAMOS EL PERSONAJE Y REDIRIGIMOS
+        //  GUARDAMOS EL PERSONAJE Y REDIRIGIMOS
         card.addEventListener("click", () => {
             localStorage.setItem("personajeSeleccionado", JSON.stringify(personaje));
             window.location.href = "detalle.html";
@@ -33,7 +33,7 @@ function mostrarPersonajes(lista) {
     });
 }
 
-// 🔥 FILTRO
+//  FILTRO
 filtro.addEventListener("change", () => {
     const valor = filtro.value;
 
